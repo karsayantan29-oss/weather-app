@@ -194,7 +194,9 @@ img {
 /*-- Index-Page-Styling --*/
 
 body {
-  /*background: url("./images/background.jpg");*/
+  /* background: url("./images/city.jpg"); */
+background-color: #87ceeb; /* Sky blue background */
+
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
