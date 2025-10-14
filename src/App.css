@@ -194,8 +194,7 @@ img {
 /*-- Index-Page-Styling --*/
 
 body {
-  /* background: url("./images/city.jpg"); */
-background-color: #87ceeb; /* Sky blue background */
+background: url('./assets/background1.jpg');
 
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -237,7 +236,7 @@ h1 {
   width: 60%;
   height: 100%;
   float: left;
-  background: url("./images/city.jpg");
+  background: url("./assets/city.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
