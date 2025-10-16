@@ -1,7 +1,7 @@
 const apiKeys = {
-  key: process.env.I9JU23NF394R6HH,
-  base: "https://api.openweathermap.org/data/2.5/",
+  key: process.env.REACT_APP_WEATHER_API_KEY,
+  base: process.env.REACT_APP_API_BASE,
 };
-console.log("🔑 API Key loaded:", process.env.I9JU23NF394R6HH);
 
+console.log("API key in app:", process.env.REACT_APP_WEATHER_API_KEY);
 export default apiKeys;
