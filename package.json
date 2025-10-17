@@ -17,6 +17,7 @@
     "react-live-clock": "^6.1.25",
     "react-scripts": "^5.0.1",
     "react-skycons": "^0.7.0",
+    "react-use": "^17.6.0",
     "skycons": "^1.0.0"
   },
   "scripts": {
